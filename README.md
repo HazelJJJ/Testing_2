@@ -8,3 +8,6 @@ Name Hazel J
 Today is Sep. 14 2020
 
 Fictional list of software ..Python and R
+
+This is a test line for git stash and git stash pop. 
+I am making changes remotely.
