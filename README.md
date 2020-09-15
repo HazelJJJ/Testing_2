@@ -7,6 +7,8 @@ Name Hazel J
 
 Today is Sep. 14 2020
 
+I am working locally. This is a test line for git stash
+
 Fictional list of software ..Python and R
 
 This is a test line for git stash and git stash pop. 
